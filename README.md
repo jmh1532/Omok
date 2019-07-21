@@ -59,15 +59,16 @@
 - 게임 방
 
 ![오목_같이_경기](https://user-images.githubusercontent.com/33171227/61588898-cc95c400-abdd-11e9-96ec-b7af1dcc9807.JPG)
+----------------------------------------------------------------------------------------------------------------------------------------
 
 3. 환경 설정
-![오목_클라_설정](https://user-images.githubusercontent.com/33171227/61588949-71180600-abde-11e9-96d7-342b86136a9a.JPG)
-## Built With
 
+![오목_클라_설정](https://user-images.githubusercontent.com/33171227/61588949-71180600-abde-11e9-96d7-342b86136a9a.JPG)
+
+## Built With
 * [Eclipse](https://www.eclipse.org/downloads/) - using for Java
 
 ## Authors
-
 * **정명한** - coding
 * **임주훈** - image 
 
